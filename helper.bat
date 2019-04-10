@@ -1,0 +1,2 @@
+"C:\Program Files\IrfanView\i_view64.exe" /capture=0/convert="C:\Users\Flynn\Documents\Spring 2019\Internet of Things\Project\wholescreen.jpeg"
+"c:\program files\irfanView\i_view64" "C:\Users\Flynn\Documents\Spring 2019\Internet of Things\Project\wholescreen.jpeg"/crop=(756,297,95,34)/convert="C:\Users\Flynn\Documents\Spring 2019\Internet of Things\Project\test.jpeg"
